@@ -23,5 +23,5 @@ Credit to Data Glacier for a chunck of code in my column validation function.
 Open Source - MIT
 
 ### Project status
-Project is complete for the Data Glacier assignment.
+Project is complete for now.
 
